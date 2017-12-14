@@ -6,7 +6,7 @@ html
   padding: 0;}
 
 body
-{ font: normal 85% Arial, Helvetica, sans-serif;
+{ font: normal 85% Arial, sans-serif;
   color: #FFF;
   background: url(../images/background.jpg) repeat;
 }
@@ -20,18 +20,18 @@ img
 { border: 0;}
 
 h1, h2, h3
-{ font: normal 175% Arial, Helvetica, sans-serif;
+{ font: normal 175% Arial, sans-serif;
   color: #FFF;
   margin: 0 0 10px 0;}
 
 h1
-{ font: normal 180% Arial, Helvetica, sans-serif;}
+{ font: normal 180% Arial, sans-serif;}
 
 h2
-{ font: normal 165% Arial, Helvetica, sans-serif;}
+{ font: normal 165% Arial, sans-serif;}
 
 h3
-{ font: normal 130% Arial, Helvetica, sans-serif;}
+{ font: normal 130% Arial, sans-serif;}
 
 a
 { color: #FFF;
@@ -75,7 +75,7 @@ ul
   margin: 0 auto;}  
    
 #welcome h1 a
-{ font: normal 150% Arial, Helvetica, sans-serif;
+{ font: normal 150% Arial, sans-serif;
   letter-spacing: -3px;
   color: #FFF;
   text-decoration: none;}
@@ -98,7 +98,7 @@ ul#menu li
 
 ul#menu li a
 { float: left;
-  font: bold 120% Arial, Helvetica, sans-serif;
+  font: bold 120% Arial, sans-serif;
   text-align: center;
   color: #FFF;
   text-decoration: none;
@@ -110,7 +110,7 @@ ul#menu li a
   background: transparent url(../images/transparent.png) repeat;}  
   
 #slogan h2
-{ font: normal 300% Arial, Helvetica, sans-serif;
+{ font: normal 300% Arial, sans-serif;
   letter-spacing: -2px;
   padding-top: 25px;
   text-align: center;
@@ -137,12 +137,12 @@ ul#menu li a
   margin-bottom: 30px;}
 
 .sidebar_item
-{ font: normal 100% Arial, Helvetica, sans-serif;
+{ font: normal 100% Arial, sans-serif;
   width: 215px;
   color: #FFF;}
 
 .sidebar h2
-{ font: normal 140% Arial, Helvetica, sans-serif;}
+{ font: normal 140% Arial, sans-serif;}
 
 #content
 { width: 665px;
